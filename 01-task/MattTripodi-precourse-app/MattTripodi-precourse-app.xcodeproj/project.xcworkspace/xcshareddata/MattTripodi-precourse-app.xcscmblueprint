@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0A4E4C0B212C0CFAF7914681A785B23BAB4451BD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "76CBCBBBB35F452F8FCB4A191D396B2182CFF3A9" : 9223372036854775807,
+    "0A4E4C0B212C0CFAF7914681A785B23BAB4451BD" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "737CF795-323B-4A9A-B5DB-0475F4B3EAF6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "76CBCBBBB35F452F8FCB4A191D396B2182CFF3A9" : "",
+    "0A4E4C0B212C0CFAF7914681A785B23BAB4451BD" : "01-task\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MattTripodi-precourse-app",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MattTripodi-precourse-app\/MattTripodi-precourse-app.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:MattTripodi\/iOSI-precourse-onboarding.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0A4E4C0B212C0CFAF7914681A785B23BAB4451BD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:MattTripodi\/aboutmeproject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "76CBCBBBB35F452F8FCB4A191D396B2182CFF3A9"
+    }
+  ]
+}
